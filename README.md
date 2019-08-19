@@ -1,1 +1,1 @@
-# test-issues
+Testing an issues-only repository
